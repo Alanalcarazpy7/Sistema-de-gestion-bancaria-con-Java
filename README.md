@@ -1,6 +1,6 @@
 # Gestión de Clientes Bancarios
 
-Este proyecto, desarrollado como parte de un trabajo colaborativo entre 4 estudiantes de la Universidad Nacional de Asunción para la materia de Lenguaje de Programación 2, consiste en un sistema de gestión de clientes bancarios. Su propósito es permitir la administración de cuentas, tarjetas de crédito y transacciones, proporcionando una interfaz intuitiva y funcionalidades avanzadas para el manejo de datos financieros.
+Este proyecto, desarrollado como parte de un trabajo colaborativo entre 3 estudiantes de la Universidad Nacional de Asunción para la materia de Lenguaje de Programación 2, consiste en un sistema de gestión de clientes bancarios. Su propósito es permitir la administración de cuentas, tarjetas de crédito y transacciones, proporcionando una interfaz intuitiva y funcionalidades avanzadas para el manejo de datos financieros.
 
 ## Características Principales
 
